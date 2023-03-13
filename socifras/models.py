@@ -11,5 +11,5 @@ class VideoAulas(models.Model):
     site = models.URLField(null=True, blank=True)
 
     def _str_(self):
-        return self.nome
+        return self.nome'
 # Create your models here.
