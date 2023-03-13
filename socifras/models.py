@@ -11,5 +11,46 @@ class VideoAulas(models.Model):
     site = models.URLField(null=True, blank=True)
 
     def _str_(self):
-        return self.nome'
+        return self.nome
+    
+class Artista(models.Model):
+    nome = models.CharField(max_length=255)
+    email = models.EmailField(null= True, blank= True)
+    site = models.URLField(null= True, blank= True)
+
+    def _str_(self):
+        return self.nome
+    
+    class Meta:
+        verbose_name_plural = "Artistas"
+
+class Musica(models.Model):
+    titulo = models.CharField(max_length=255)
+    artista = models.CharField(max_length=255)
+    tom = models.CharField(max_length=10)
+    videoaula = models.URLField(null= True, blank= True)
+
+    categoria = models.ForeignKey(
+        Genero, on_delete=models.PROTECT, related_name="musicas"
+    )
+    categoria = models.ForeignKey(
+        VideoAulas, on_delete=models.PROTECT, related_name="musicas"
+    )
+    categoria = models.ForeignKey(
+        Artista, on_delete=models.PROTECT, related_name="musicas"
+    )
+
+    def _str_(self):
+        return f"{self.titulo} ({self.artista})"
+
+
+
+
+
+
+
+
+
+
+
 # Create your models here.
