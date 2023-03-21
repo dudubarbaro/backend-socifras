@@ -1,5 +1,4 @@
 from rest_framework.serializers import ModelSerializer
-
 from socifras.models import VideoAulas
 
 class VideoAulasSerializer(ModelSerializer):

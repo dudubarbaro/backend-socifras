@@ -1,5 +1,4 @@
 from rest_framework.serializers import ModelSerializer
-
 from socifras.models import Genero
 
 class GeneroSerializer(ModelSerializer):

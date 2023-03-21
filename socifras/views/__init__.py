@@ -1,6 +1,4 @@
-from rest_framework.viewsets import ModelViewSet
-
-import .musica from MusicaViewSet
-import .genero from GeneroViewSet
-import .videoaulas from VideoAulasViewSet
-import .artista from ArtistaViewSet
+from .musica import MusicaViewSet
+from .genero import GeneroViewSet
+from .videoaulas import VideoAulasViewSet
+from .artista import ArtistaViewSet

@@ -1,6 +1,7 @@
 from rest_framework.viewsets import ModelViewSet
 from socifras.models import Musica
-from socifras.serializers import MusicaSerializer, MusicaDetailSerializer
+from socifras.serializers import MusicaSerializer
+from socifras.serializers import MusicaDetailSerializer
 
 class MusicaViewSet(ModelViewSet):
     queryset = Musica.objects.all()

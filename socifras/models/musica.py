@@ -1,6 +1,7 @@
 from django.db import models
-from socifras.models import Genero, VideoAulas, Artista
-
+from socifras.models.genero import Genero
+from socifras.models.artista import Artista
+from socifras.models.videoaulas import VideoAulas
 class Musica(models.Model):
     titulo = models.CharField(max_length=255)
     tom = models.CharField(max_length=10)
