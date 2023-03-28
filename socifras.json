@@ -1,0 +1,1090 @@
+[
+  {
+    "model": "socifras.artista",
+    "pk": 1,
+    "fields": {
+      "nome": "Amado Batista",
+      "email": "amadobatista@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 2,
+    "fields": {
+      "nome": "Chitãozinho e Xororó",
+      "email": "chitaozinhoexororo@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 3,
+    "fields": {
+      "nome": "Gusttavo Lima",
+      "email": "gusttavolima@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 4,
+    "fields": {
+      "nome": "João Bosco e Vinícius",
+      "email": "joaoboscoevinicius@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 5,
+    "fields": {
+      "nome": "João Neto e Frederico",
+      "email": "joaonetoefedrerico@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 6,
+    "fields": {
+      "nome": "Luan Santana",
+      "email": "luansantana@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 7,
+    "fields": {
+      "nome": "Matogrosso e Mathias",
+      "email": "matogrossoemathias@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 8,
+    "fields": {
+      "nome": "Michel Teló",
+      "email": "micheltelo@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 9,
+    "fields": {
+      "nome": "Sorriso Maroto",
+      "email": "sorrisomaroto@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 10,
+    "fields": {
+      "nome": "Zé Neto e Cristiano",
+      "email": "zenetoecristiano@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 11,
+    "fields": {
+      "nome": "Zezé di Camargo e Luciano",
+      "email": "zezedicamargoeluciano@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 12,
+    "fields": {
+      "nome": "Luana Prado",
+      "email": "luanaprado@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 13,
+    "fields": {
+      "nome": "Luan Estilizado",
+      "email": "luanestilizado@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 14,
+    "fields": {
+      "nome": "CLeber e Cauan",
+      "email": "cleberecauan@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 15,
+    "fields": {
+      "nome": "César Menotti e Fabiano",
+      "email": "cesarmenottiefabiano@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 16,
+    "fields": {
+      "nome": "Rick e Rener",
+      "email": "rickerener@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 17,
+    "fields": {
+      "nome": "Gustavo Mioto",
+      "email": "gustavomioto@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 18,
+    "fields": {
+      "nome": "Gustavo Henrique",
+      "email": "gustavohenrique@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 19,
+    "fields": {
+      "nome": "Gustavo Menezes",
+      "email": "gustavomenezes@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.artista",
+    "pk": 20,
+    "fields": {
+      "nome": "Paula Fernandes",
+      "email": "paulafernandes@gmail.com"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 1,
+    "fields": {
+      "descricao": "Sertanejo Raiz"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 2,
+    "fields": {
+      "descricao": "Sertanejo Universitário"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 3,
+    "fields": {
+      "descricao": "Forró"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 4,
+    "fields": {
+      "descricao": "Pagode"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 5,
+    "fields": {
+      "descricao": "Funk"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 6,
+    "fields": {
+      "descricao": "Axé"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 7,
+    "fields": {
+      "descricao": "MPB"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 8,
+    "fields": {
+      "descricao": "Rock"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 9,
+    "fields": {
+      "descricao": "Pop"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 10,
+    "fields": {
+      "descricao": "Eletrônica"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 11,
+    "fields": {
+      "descricao": "Reggae"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 12,
+    "fields": {
+      "descricao": "Samba"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 13,
+    "fields": {
+      "descricao": "Rap"
+    }
+  },
+  {
+    "model": "socifras.genero",
+    "pk": 14,
+    "fields": {
+      "descricao": "Folk"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 1,
+    "fields": {
+      "nome": "Evidencias",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/evidencias/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 2,
+    "fields": {
+      "nome": "Ainda Bem",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/ainda-bem/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 3,
+    "fields": {
+      "nome": "Aquele Abraço",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/aquele-abraco/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 4,
+    "fields": {
+      "nome": "Aquele 1% (part. Jorge e Mateus)",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/aquele-1-part-jorge-e-mateus/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 5,
+    "fields": {
+      "nome": "Saudade da Minha Terra",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/saudades-da-minha-terra/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 6,
+    "fields": {
+      "nome": "Página de Amigos",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/pagina-de-amigos/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 7,
+    "fields": {
+      "nome": "Sinônimos",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/sinonimos/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 8,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "site": "https://www.cifraclub.com.br/chitaozinho-e-xororo/ainda-ontem-chorei-de-saudade/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 9,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "site": "https://www.cifraclub.com.br/gusttavo-lima/termina-comigo-antes//"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 10,
+    "fields": {
+      "nome": "Na Hora de Amar",
+      "site": "https://www.cifraclub.com.br/gusttavo-lima/na-hora-de-amar/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 11,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "site": "https://www.cifraclub.com.br/gusttavo-lima/inventor-dos-amores/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 12,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "site": "https://www.cifraclub.com.br/gusttavo-lima/saudade-da-minha-vida/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 13,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "site": "https://www.cifraclub.com.br/gusttavo-lima/ficha-limpa/"
+    }
+  },
+  {
+    "model": "socifras.videoaula",
+    "pk": 14,
+    "fields": {
+      "nome": "Coração Apertado",
+      "site": "https://www.cifraclub.com.br/gusttavo-lima/coracao-apertado/"
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 1,
+    "fields": {
+      "nome": "Evidências",
+      "genero": 1,
+      "videoaula": 1,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 2,
+    "fields": {
+      "nome": "Ainda Bem",
+      "genero": 1,
+      "videoaula": 2,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 3,
+    "fields": {
+      "nome": "Aquele Abraço",
+      "genero": 1,
+      "videoaula": 3,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 4,
+    "fields": {
+      "nome": "Aquele 1%",
+      "genero": 1,
+      "videoaula": 4,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 5,
+    "fields": {
+      "nome": "Saudades da Minha Terra",
+      "genero": 1,
+      "videoaula": 5,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 6,
+    "fields": {
+      "nome": "Página de Amigos",
+      "genero": 1,
+      "videoaula": 6,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 7,
+    "fields": {
+      "nome": "Sinônimos",
+      "genero": 1,
+      "videoaula": 7,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 8,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "genero": 1,
+      "videoaula": 8,
+      "artistas": [1]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 9,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "genero": 1,
+      "videoaula": 9,
+      "artistas": [2]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 10,
+    "fields": {
+      "nome": "Na Hora de Amar",
+      "genero": 1,
+      "videoaula": 10,
+      "artistas": [2]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 11,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "genero": 1,
+      "videoaula": 11,
+      "artistas": [2]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 12,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "genero": 1,
+      "videoaula": 12,
+      "artistas": [2]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 13,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "genero": 1,
+      "videoaula": 13,
+      "artistas": [2]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 14,
+    "fields": {
+      "nome": "Coração Apertado",
+      "genero": 1,
+      "videoaula": 14,
+      "artistas": [2]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 15,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "genero": 1,
+      "videoaula": 8,
+      "artistas": [3]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 16,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "genero": 1,
+      "videoaula": 9,
+      "artistas": [3]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 17,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "genero": 1,
+      "videoaula": 11,
+      "artistas": [3]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 18,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "genero": 1,
+      "videoaula": 12,
+      "artistas": [3]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 19,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "genero": 1,
+      "videoaula": 13,
+      "artistas": [3]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 20,
+    "fields": {
+      "nome": "Coração Apertado",
+      "genero": 1,
+      "videoaula": 14,
+      "artistas": [3]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 21,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "genero": 1,
+      "videoaula": 8,
+      "artistas": [4]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 22,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "genero": 1,
+      "videoaula": 9,
+      "artistas": [4]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 23,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "genero": 1,
+      "videoaula": 11,
+      "artistas": [4]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 24,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "genero": 1,
+      "videoaula": 12,
+      "artistas": [4]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 25,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "genero": 1,
+      "videoaula": 13,
+      "artistas": [4]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 26,
+    "fields": {
+      "nome": "Coração Apertado",
+      "genero": 1,
+      "videoaula": 14,
+      "artistas": [4]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 27,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "genero": 1,
+      "videoaula": 8,
+      "artistas": [5]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 28,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "genero": 1,
+      "videoaula": 9,
+      "artistas": [5]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 29,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "genero": 1,
+      "videoaula": 11,
+      "artistas": [5]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 30,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "genero": 1,
+      "videoaula": 12,
+      "artistas": [5]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 31,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "genero": 1,
+      "videoaula": 13,
+      "artistas": [5]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 32,
+    "fields": {
+      "nome": "Coração Apertado",
+      "genero": 1,
+      "videoaula": 14,
+      "artistas": [5]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 33,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "genero": 1,
+      "videoaula": 8,
+      "artistas": [6]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 34,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "genero": 1,
+      "videoaula": 9,
+      "artistas": [6]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 35,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "genero": 1,
+      "videoaula": 11,
+      "artistas": [6]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 36,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "genero": 1,
+      "videoaula": 12,
+      "artistas": [6]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 37,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "genero": 1,
+      "videoaula": 13,
+      "artistas": [6]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 38,
+    "fields": {
+      "nome": "Coração Apertado",
+      "genero": 1,
+      "videoaula": 14,
+      "artistas": [6]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 39,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "genero": 1,
+      "videoaula": 8,
+      "artistas": [7]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 40,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "genero": 1,
+      "videoaula": 9,
+      "artistas": [7]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 41,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "genero": 1,
+      "videoaula": 11,
+      "artistas": [7]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 42,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "genero": 1,
+      "videoaula": 12,
+      "artistas": [7]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 43,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "genero": 1,
+      "videoaula": 13,
+      "artistas": [7]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 44,
+    "fields": {
+      "nome": "Coração Apertado",
+      "genero": 1,
+      "videoaula": 14,
+      "artistas": [7]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 45,
+    "fields": {
+      "nome": "Ainda Ontem Chorei de Saudade",
+      "genero": 1,
+      "videoaula": 8,
+      "artistas": [8]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 46,
+    "fields": {
+      "nome": "Termina Comigo Antes",
+      "genero": 1,
+      "videoaula": 9,
+      "artistas": [8]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 47,
+    "fields": {
+      "nome": "Inventor Dos Amores",
+      "genero": 1,
+      "videoaula": 11,
+      "artistas": [8]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 48,
+    "fields": {
+      "nome": "Saudade da Minha Vida",
+      "genero": 1,
+      "videoaula": 12,
+      "artistas": [8]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 49,
+    "fields": {
+      "nome": "Ficha Limpa",
+      "genero": 1,
+      "videoaula": 13,
+      "artistas": [8]
+    }
+  },
+  {
+    "model": "socifras.musica",
+    "pk": 50,
+    "fields": {
+      "nome": "Coração Apertado",
+      "genero": 1,
+      "videoaula": 14,
+      "artistas": [8]
+    }
+  },
+  {
+    "model": "socifras.usuario",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$ho8E4gMoGI5ZLcdzrNbDrx$Sv5olhGNiaf5DQZyIObHVulv0C4hzuLKYSDB38QvXVY=",
+      "last_login": "2022-10-17T12:26:26.936Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-09-15T17:47:34Z",
+      "cpf": "93682786953",
+      "telefone": null,
+      "data_nascimento": null,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "socifras.usuario",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$i9mQUcKQUFk7OyWvVFzjX1$tU3QU+cj90RBk6zoanKyfmG0bhwdpNdH4AaTqOBADmY=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Lutao",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-09-15T17:53:22Z",
+      "cpf": "13969044928",
+      "telefone": null,
+      "data_nascimento": null,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 1,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 2,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 3,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 4,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 5,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 6,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 7,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 8,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 9,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 10,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 11,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 12,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 13,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 14,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 15,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  },
+  {
+    "model": "uploader.image",
+    "pk": 16,
+    "fields": {
+      "attachment_key": "18284d4d-c9e7-43ce-859d-3fd96fac339a",
+      "public_id": "99ac613a-13e7-48e6-a9a7-b98667d91914",
+      "file": "images/99ac613a-13e7-48e6-a9a7-b98667d91914.jpg",
+      "description": "musica",
+      "uploaded_on": "2022-09-16T21:42:12.903Z"
+    }
+  }
+]
