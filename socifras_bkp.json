@@ -729,10 +729,10 @@
 },
 {
   "model": "sessions.session",
-  "pk": "i1goaafjpwhiy0jiq84c2o997jgk0kr6",
+  "pk": "s4mx0h0v3mbx07lmsfig2czkrettk8jx",
   "fields": {
-    "session_data": ".eJxVjDsOwjAQBe_iGln-JP5Q0nMGa727wQHkSHFSIe4OllJA-2bmvUSCfStpb7ymmcRZaHH63TLgg2sHdId6WyQudVvnLLsiD9rkdSF-Xg7376BAK72OLgc1-tFMqK23mAcbo3LaEQUXGWgyHBxkY5E1DF6RZw_m26CO6MT7A9XrN60:1pf24a:r4vJ-CDC3jU1o4Xs07ntBgM0HzSkOmorKsO1kv-Mi0E",
-    "expire_date": "2023-04-05T17:16:28.858Z"
+    "session_data": ".eJxVjDsOwjAQBe_iGln-JP5Q0nMGa727wQHkSHFSIe4OllJA-2bmvUSCfStpb7ymmcRZaHH63TLgg2sHdId6WyQudVvnLLsiD9rkdSF-Xg7376BAK72OLgc1-tFMqK23mAcbo3LaEQUXGWgyHBxkY5E1DF6RZw_m26CO6MT7A9XrN60:1phui8:fQwcaqNOHsCYH1pG5hVLf05-eV5ATj3aBtgyp1OfaRk",
+    "expire_date": "2023-04-13T16:01:12.175Z"
   }
 },
 {
@@ -740,7 +740,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$390000$FoDCBAuMS4wLOr5vohOXAU$CZWVEuXCRf6AcQrz4UOr6lP/ltd5Zot+yVlzkEn9LlY=",
-    "last_login": "2023-03-22T17:16:28Z",
+    "last_login": "2023-03-30T16:01:12.170Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "Admin",

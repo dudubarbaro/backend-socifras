@@ -258,7 +258,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 1,
     "fields": {
       "nome": "Evidencias",
@@ -266,7 +266,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 2,
     "fields": {
       "nome": "Ainda Bem",
@@ -274,7 +274,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 3,
     "fields": {
       "nome": "Aquele Abraço",
@@ -282,7 +282,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 4,
     "fields": {
       "nome": "Aquele 1% (part. Jorge e Mateus)",
@@ -290,7 +290,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 5,
     "fields": {
       "nome": "Saudade da Minha Terra",
@@ -298,7 +298,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 6,
     "fields": {
       "nome": "Página de Amigos",
@@ -306,7 +306,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 7,
     "fields": {
       "nome": "Sinônimos",
@@ -314,7 +314,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 8,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
@@ -322,7 +322,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 9,
     "fields": {
       "nome": "Termina Comigo Antes",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 10,
     "fields": {
       "nome": "Na Hora de Amar",
@@ -338,7 +338,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 11,
     "fields": {
       "nome": "Inventor Dos Amores",
@@ -346,7 +346,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 12,
     "fields": {
       "nome": "Saudade da Minha Vida",
@@ -354,7 +354,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 13,
     "fields": {
       "nome": "Ficha Limpa",
@@ -362,7 +362,7 @@
     }
   },
   {
-    "model": "socifras.videoaula",
+    "model": "socifras.videoaulas",
     "pk": 14,
     "fields": {
       "nome": "Coração Apertado",
