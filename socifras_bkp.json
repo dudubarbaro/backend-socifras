@@ -729,6 +729,22 @@
 },
 {
   "model": "sessions.session",
+  "pk": "1zg0p2qdijxerrs2wsjey0ptl98i8474",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-JP5Q0nMGa727wQHkSHFSIe4OllJA-2bmvUSCfStpb7ymmcRZaHH63TLgg2sHdId6WyQudVvnLLsiD9rkdSF-Xg7376BAK72OLgc1-tFMqK23mAcbo3LaEQUXGWgyHBxkY5E1DF6RZw_m26CO6MT7A9XrN60:1piHNE:S9v20ZZ_76ugTdU71hdyk6yVWi6Ds7UH2KyTcErsEgM",
+    "expire_date": "2023-04-14T16:13:08.639Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "oovcs27ui79mfkia6ddsjrt6s15m1o7v",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlm2E_8o6XMGa7274ACypTipEHeHSCmgfTPzXiLBtpa0dV7STOIstDj9bhnwwXUHdId6axJbXZc5y12RB-1yasTPy-H-HRTo5Vtb69E4yN5rAwNE8mMEBlba84jGILrgoroSDhbIG1IxuxExaHSagxbvD-SkN_0:1pjI4B:fwYg5whtDO9WFK9b_BP2cI-lamDplUgvHY0DKxIYSUM",
+    "expire_date": "2023-04-17T11:09:39.256Z"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "s4mx0h0v3mbx07lmsfig2czkrettk8jx",
   "fields": {
     "session_data": ".eJxVjDsOwjAQBe_iGln-JP5Q0nMGa727wQHkSHFSIe4OllJA-2bmvUSCfStpb7ymmcRZaHH63TLgg2sHdId6WyQudVvnLLsiD9rkdSF-Xg7376BAK72OLgc1-tFMqK23mAcbo3LaEQUXGWgyHBxkY5E1DF6RZw_m26CO6MT7A9XrN60:1phui8:fQwcaqNOHsCYH1pG5hVLf05-eV5ATj3aBtgyp1OfaRk",
@@ -739,8 +755,8 @@
   "model": "socifras.usuario",
   "pk": 1,
   "fields": {
-    "password": "pbkdf2_sha256$390000$FoDCBAuMS4wLOr5vohOXAU$CZWVEuXCRf6AcQrz4UOr6lP/ltd5Zot+yVlzkEn9LlY=",
-    "last_login": "2023-03-30T16:01:12.170Z",
+    "password": "pbkdf2_sha256$600000$mFm5wTZkUG3AYSZxK3b3EC$AnCtI7yFJvKbRRmx9onmCjo3MNVc5s5QeVKwQpxas+Y=",
+    "last_login": "2023-04-03T11:09:39.252Z",
     "is_superuser": true,
     "username": "admin",
     "first_name": "Admin",

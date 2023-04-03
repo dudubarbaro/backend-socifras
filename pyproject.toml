@@ -8,7 +8,7 @@ authors = [
     {name = "dudubarbaro", email = "eduardobarbaro.ifc@gmail.com"},
 ]
 dependencies = [
-    "django>=4.1.7",
+    "django>=4.2",
     "djangorestframework>=3.14.0",
     "django-cors-headers>=3.14.0",
     "djangorestframework-simplejwt>=5.2.2",

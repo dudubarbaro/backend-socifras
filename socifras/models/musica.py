@@ -4,18 +4,18 @@ from socifras.models.artista import Artista
 from socifras.models.videoaulas import VideoAulas
 class Musica(models.Model):
     nome = models.CharField(max_length=255)
-    generos = models.CharField(max_length=20)
-    videoaula = models.URLField(null= True, blank= True)
-    artistas = models.CharField(max_length=255)
+    genero = models.CharField(max_length=20)
+    videoaulas = models.URLField(null= True, blank= True)
+    artista = models.CharField(max_length=255)
     
 
-    generos = models.ForeignKey(
+    genero = models.ForeignKey(
         Genero, on_delete=models.PROTECT, related_name="musicas"
     )
     videoaulas = models.ForeignKey(
         VideoAulas, on_delete=models.PROTECT, related_name="musicas"
     )
-    artistas = models.ManyToManyField(
+    artista = models.ManyToManyField(
         Artista, related_name="musicas"
     )
     
