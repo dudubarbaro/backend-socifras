@@ -374,8 +374,8 @@
     "pk": 1,
     "fields": {
       "nome": "Evidências",
-      "genero": 1,
-      "videoaulas": 1,
+      "genero_id": 1,
+      "videoaulas_id": 1,
       "artista": [1]
     }
   },
@@ -384,8 +384,8 @@
     "pk": 2,
     "fields": {
       "nome": "Ainda Bem",
-      "genero": 2,
-      "videoaulas": 2,
+      "genero_id": 2,
+      "videoaulas_id": 2,
       "artista": [2]
     }
   },
@@ -394,8 +394,8 @@
     "pk": 3,
     "fields": {
       "nome": "Aquele Abraço",
-      "genero": 3,
-      "videoaulas": 3,
+      "genero_id": 3,
+      "videoaulas_id": 3,
       "artista": [3]
     }
   },
@@ -404,8 +404,8 @@
     "pk": 4,
     "fields": {
       "nome": "Aquele 1%",
-      "genero": 4,
-      "videoaulas": 4,
+      "genero_id": 4,
+      "videoaulas_id": 4,
       "artista": [4]
     }
   },
@@ -414,8 +414,8 @@
     "pk": 5,
     "fields": {
       "nome": "Saudades da Minha Terra",
-      "genero": 5,
-      "videoaulas": 5,
+      "genero_id": 5,
+      "videoaulas_id": 5,
       "artista": [5]
     }
   },
@@ -424,8 +424,8 @@
     "pk": 6,
     "fields": {
       "nome": "Página de Amigos",
-      "genero": 6,
-      "videoaulas": 6,
+      "genero_id": 6,
+      "videoaulas_id": 6,
       "artista": [6]
     }
   },
@@ -434,8 +434,8 @@
     "pk": 7,
     "fields": {
       "nome": "Sinônimos",
-      "genero": 7,
-      "videoaulas": 7,
+      "genero_id": 7,
+      "videoaulas_id": 7,
       "artista": [7]
     }
   },
@@ -444,8 +444,8 @@
     "pk": 8,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
-      "genero": 8,
-      "videoaulas": 8,
+      "genero_id": 8,
+      "videoaulas_id": 8,
       "artista": [8]
     }
   },
@@ -454,8 +454,8 @@
     "pk": 9,
     "fields": {
       "nome": "Termina Comigo Antes",
-      "genero": 9,
-      "videoaulas": 9,
+      "genero_id": 9,
+      "videoaulas_id": 9,
       "artista": [9]
     }
   },
@@ -464,8 +464,8 @@
     "pk": 10,
     "fields": {
       "nome": "Na Hora de Amar",
-      "genero": 10,
-      "videoaulas": 10,
+      "genero_id": 10,
+      "videoaulas_id": 10,
       "artista": [10]
     }
   },
@@ -474,8 +474,8 @@
     "pk": 11,
     "fields": {
       "nome": "Inventor Dos Amores",
-      "genero": 11,
-      "videoaulas": 11,
+      "genero_id": 11,
+      "videoaulas_id": 11,
       "artista": [11]
     }
   },
@@ -484,8 +484,8 @@
     "pk": 12,
     "fields": {
       "nome": "Saudade da Minha Vida",
-      "genero": 12,
-      "videoaulas": 12,
+      "genero_id": 12,
+      "videoaulas_id": 12,
       "artista": [12]
     }
   },
@@ -494,8 +494,8 @@
     "pk": 13,
     "fields": {
       "nome": "Ficha Limpa",
-      "genero": 13,
-      "videoaulas": 13,
+      "genero_id": 13,
+      "videoaulas_id": 13,
       "artista": [13]
     }
   },
@@ -504,8 +504,8 @@
     "pk": 14,
     "fields": {
       "nome": "Coração Apertado",
-      "genero": 14,
-      "videoaulas": 14,
+      "genero_id": 14,
+      "videoaulas_id": 14,
       "artista": [14]
     }
   },
@@ -514,8 +514,8 @@
     "pk": 15,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
-      "genero": 1,
-      "videoaulas": 2,
+      "genero_id": 1,
+      "videoaulas_id": 2,
       "artista": [2]
     }
   },
@@ -524,8 +524,8 @@
     "pk": 16,
     "fields": {
       "nome": "Termina Comigo Antes",
-      "genero": 2,
-      "videoaulas": 3,
+      "genero_id": 2,
+      "videoaulas_id": 3,
       "artista": [3]
     }
   },
@@ -534,8 +534,8 @@
     "pk": 17,
     "fields": {
       "nome": "Inventor Dos Amores",
-      "genero": 3,
-      "videoaulas": 4,
+      "genero_id": 3,
+      "videoaulas_id": 4,
       "artista": [4]
     }
   },
@@ -544,8 +544,8 @@
     "pk": 18,
     "fields": {
       "nome": "Saudade da Minha Vida",
-      "genero": 5,
-      "videoaulas": 6,
+      "genero_id": 5,
+      "videoaulas_id": 6,
       "artista": [5]
     }
   },
@@ -554,8 +554,8 @@
     "pk": 19,
     "fields": {
       "nome": "Ficha Limpa",
-      "genero": 6,
-      "videoaulas": 7,
+      "genero_id": 6,
+      "videoaulas_id": 7,
       "artista": [6]
     }
   },
@@ -564,8 +564,8 @@
     "pk": 20,
     "fields": {
       "nome": "Coração Apertado",
-      "genero": 7,
-      "videoaulas": 8,
+      "genero_id": 7,
+      "videoaulas_id": 8,
       "artista": [7]
     }
   },
@@ -574,8 +574,8 @@
     "pk": 21,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
-      "genero": 8,
-      "videoaulas": 9,
+      "genero_id": 8,
+      "videoaulas_id": 9,
       "artista": [8]
     }
   },
@@ -584,8 +584,8 @@
     "pk": 22,
     "fields": {
       "nome": "Termina Comigo Antes",
-      "genero": 9,
-      "videoaulas": 10,
+      "genero_id": 9,
+      "videoaulas_id": 10,
       "artista": [9]
     }
   },
@@ -594,8 +594,8 @@
     "pk": 23,
     "fields": {
       "nome": "Inventor Dos Amores",
-      "genero": 10,
-      "videoaulas": 11,
+      "genero_id": 10,
+      "videoaulas_id": 11,
       "artista": [10]
     }
   },
@@ -604,8 +604,8 @@
     "pk": 24,
     "fields": {
       "nome": "Saudade da Minha Vida",
-      "genero": 11,
-      "videoaulas": 12,
+      "genero_id": 11,
+      "videoaulas_id": 12,
       "artista": [11]
     }
   },
@@ -614,8 +614,8 @@
     "pk": 25,
     "fields": {
       "nome": "Ficha Limpa",
-      "genero": 12,
-      "videoaulas": 13,
+      "genero_id": 12,
+      "videoaulas_id": 13,
       "artista": [12]
     }
   },
@@ -624,8 +624,8 @@
     "pk": 26,
     "fields": {
       "nome": "Coração Apertado",
-      "genero": 13,
-      "videoaulas": 14,
+      "genero_id": 13,
+      "videoaulas_id": 14,
       "artista": [13]
     }
   },
@@ -634,8 +634,8 @@
     "pk": 27,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
-      "genero": 14,
-      "videoaulas": 14,
+      "genero_id": 14,
+      "videoaulas_id": 14,
       "artista": [1]
     }
   },
@@ -644,8 +644,8 @@
     "pk": 28,
     "fields": {
       "nome": "Termina Comigo Antes",
-      "genero": 2,
-      "videoaulas": 9,
+      "genero_id": 2,
+      "videoaulas_id": 9,
       "artista": [2]
     }
   },
@@ -654,8 +654,8 @@
     "pk": 29,
     "fields": {
       "nome": "Inventor Dos Amores",
-      "genero": 3,
-      "videoaulas": 4,
+      "genero_id": 3,
+      "videoaulas_id": 4,
       "artista": [3]
     }
   },
@@ -664,8 +664,8 @@
     "pk": 30,
     "fields": {
       "nome": "Saudade da Minha Vida",
-      "genero": 4,
-      "videoaulas": 5,
+      "genero_id": 4,
+      "videoaulas_id": 5,
       "artista": [4]
     }
   },
@@ -674,8 +674,8 @@
     "pk": 31,
     "fields": {
       "nome": "Ficha Limpa",
-      "genero": 5,
-      "videoaulas": 6,
+      "genero_id": 5,
+      "videoaulas_id": 6,
       "artista": [5]
     }
   },
@@ -684,8 +684,8 @@
     "pk": 32,
     "fields": {
       "nome": "Coração Apertado",
-      "genero": 6,
-      "videoaulas": 7,
+      "genero_id": 6,
+      "videoaulas_id": 7,
       "artista": [5]
     }
   },
@@ -694,8 +694,8 @@
     "pk": 33,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
-      "genero": 7,
-      "videoaulas": 8,
+      "genero_id": 7,
+      "videoaulas_id": 8,
       "artista": [6]
     }
   },
@@ -704,8 +704,8 @@
     "pk": 34,
     "fields": {
       "nome": "Termina Comigo Antes",
-      "genero": 8,
-      "videoaulas": 9,
+      "genero_id": 8,
+      "videoaulas_id": 9,
       "artista": [7]
     }
   },
@@ -714,8 +714,8 @@
     "pk": 35,
     "fields": {
       "nome": "Inventor Dos Amores",
-      "genero": 10,
-      "videoaulas": 11,
+      "genero_id": 10,
+      "videoaulas_id": 11,
       "artista": [8]
     }
   },
@@ -724,8 +724,8 @@
     "pk": 36,
     "fields": {
       "nome": "Saudade da Minha Vida",
-      "genero": 11,
-      "videoaulas": 12,
+      "genero_id": 11,
+      "videoaulas_id": 12,
       "artista": [6]
     }
   },
@@ -734,8 +734,8 @@
     "pk": 37,
     "fields": {
       "nome": "Ficha Limpa",
-      "genero": 12,
-      "videoaulas": 13,
+      "genero_id": 12,
+      "videoaulas_id": 13,
       "artista": [9]
     }
   },
@@ -744,8 +744,8 @@
     "pk": 38,
     "fields": {
       "nome": "Coração Apertado",
-      "genero": 13,
-      "videoaulas": 14,
+      "genero_id": 13,
+      "videoaulas_id": 14,
       "artista": [10]
     }
   },
@@ -754,8 +754,8 @@
     "pk": 39,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
-      "genero": 1,
-      "videoaulas": 8,
+      "genero_id": 1,
+      "videoaulas_id": 8,
       "artista": [7]
     }
   },
@@ -764,8 +764,8 @@
     "pk": 40,
     "fields": {
       "nome": "Termina Comigo Antes",
-      "genero": 2,
-      "videoaulas": 9,
+      "genero_id": 2,
+      "videoaulas_id": 9,
       "artista": [10]
     }
   },
@@ -774,8 +774,8 @@
     "pk": 41,
     "fields": {
       "nome": "Inventor Dos Amores",
-      "genero": 3,
-      "videoaulas": 11,
+      "genero_id": 3,
+      "videoaulas_id": 11,
       "artista": [9]
     }
   },
@@ -784,8 +784,8 @@
     "pk": 42,
     "fields": {
       "nome": "Saudade da Minha Vida",
-      "genero": 4,
-      "videoaulas": 12,
+      "genero_id": 4,
+      "videoaulas_id": 12,
       "artista": [8]
     }
   },
@@ -794,8 +794,8 @@
     "pk": 43,
     "fields": {
       "nome": "Ficha Limpa",
-      "genero": 5,
-      "videoaulas": 13,
+      "genero_id": 5,
+      "videoaulas_id": 13,
       "artista": [7]
     }
   },
@@ -804,8 +804,8 @@
     "pk": 44,
     "fields": {
       "nome": "Coração Apertado",
-      "genero": 6,
-      "videoaulas": 14,
+      "genero_id": 6,
+      "videoaulas_id": 14,
       "artista": [6]
     }
   },
@@ -814,8 +814,8 @@
     "pk": 45,
     "fields": {
       "nome": "Ainda Ontem Chorei de Saudade",
-      "genero": 7,
-      "videoaulas": 8,
+      "genero_id": 7,
+      "videoaulas_id": 8,
       "artista": [5]
     }
   },
@@ -824,8 +824,8 @@
     "pk": 46,
     "fields": {
       "nome": "Termina Comigo Antes",
-      "genero": 8,
-      "videoaulas": 9,
+      "genero_id": 8,
+      "videoaulas_id": 9,
       "artista": [4]
     }
   },
@@ -834,8 +834,8 @@
     "pk": 47,
     "fields": {
       "nome": "Inventor Dos Amores",
-      "genero": 9,
-      "videoaulas": 11,
+      "genero_id": 9,
+      "videoaulas_id": 11,
       "artista": [3]
     }
   },
@@ -844,8 +844,8 @@
     "pk": 48,
     "fields": {
       "nome": "Saudade da Minha Vida",
-      "genero": 10,
-      "videoaulas": 12,
+      "genero_id": 10,
+      "videoaulas_id": 12,
       "artista": [2]
     }
   },
@@ -854,8 +854,8 @@
     "pk": 49,
     "fields": {
       "nome": "Ficha Limpa",
-      "genero": 11,
-      "videoaulas": 13,
+      "genero_id": 11,
+      "videoaulas_id": 13,
       "artista": [1]
     }
   },
@@ -864,8 +864,8 @@
     "pk": 50,
     "fields": {
       "nome": "Coração Apertado",
-      "genero": 12,
-      "videoaulas": 14,
+      "genero_id": 12,
+      "videoaulas_id": 14,
       "artista": [8]
     }
   },
